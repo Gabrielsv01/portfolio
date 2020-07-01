@@ -1,0 +1,11 @@
+<svg id="Instagram" xmlns="http://www.w3.org/2000/svg" width="33" height="34" viewBox="0 0 33 34">
+  <g id="Retângulo_1" data-name="Retângulo 1" fill="#fff" stroke="#171516" stroke-width="2">
+    <rect width="33" height="34" rx="10" stroke="none"/>
+    <rect x="1" y="1" width="31" height="32" rx="9" fill="none"/>
+  </g>
+  <g id="Elipse_1" data-name="Elipse 1" transform="translate(9 10)" fill="none" stroke="#171516" stroke-width="2">
+    <circle cx="8" cy="8" r="8" stroke="none"/>
+    <circle cx="8" cy="8" r="7" fill="none"/>
+  </g>
+  <circle id="Elipse_2" data-name="Elipse 2" cx="2.5" cy="2.5" r="2.5" transform="translate(23 5)" fill="#171516"/>
+</svg>
