@@ -115,7 +115,7 @@ export const Phaser = styled.div`
         
         
         #Phaser{
-            color:#707070;
+            color:#000000;
             font-family: 'Dancing Script', cursive;
             line-height: 30px;
             font-size: 22px;
