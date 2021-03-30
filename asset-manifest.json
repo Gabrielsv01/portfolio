@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/portfolio/static/js/main.0c04149a.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.0c04149a.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.fb1b3dac.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.fb1b3dac.js.map",
+    "static/js/2.8625e7fb.chunk.js": "/portfolio/static/js/2.8625e7fb.chunk.js",
+    "static/js/2.8625e7fb.chunk.js.map": "/portfolio/static/js/2.8625e7fb.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.3949d79a79eb00c164f3fc5a6126cd5a.js": "/portfolio/precache-manifest.3949d79a79eb00c164f3fc5a6126cd5a.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/js/2.8625e7fb.chunk.js.LICENSE.txt": "/portfolio/static/js/2.8625e7fb.chunk.js.LICENSE.txt",
+    "static/media/CurvaHomePage.svg": "/portfolio/static/media/CurvaHomePage.b4ba9e09.svg",
+    "static/media/Eu.jpg": "/portfolio/static/media/Eu.39965589.jpg",
+    "static/media/GitHub.svg": "/portfolio/static/media/GitHub.e02bf790.svg",
+    "static/media/Instagram.svg": "/portfolio/static/media/Instagram.84c2e98b.svg",
+    "static/media/floresta.png": "/portfolio/static/media/floresta.f7f92903.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb1b3dac.js",
+    "static/js/2.8625e7fb.chunk.js",
+    "static/js/main.0c04149a.chunk.js"
+  ]
+}
